@@ -1,0 +1,23 @@
+{
+  "name": "github-organization-contributors",
+  "version": "1.0.0",
+  "description": "Node.js course assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zavorotiuk/lohika-nodejs-course-assignment-1.git"
+  },
+  "author": "zavorotiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zavorotiuk/lohika-nodejs-course-assignment-1/issues"
+  },
+  "homepage": "https://github.com/zavorotiuk/lohika-nodejs-course-assignment-1#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
